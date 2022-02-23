@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the funeral of the Right Honourable the Lady Viscountess Dowager Cholmondeley at Malpas in Cheshire on the last day of February, 1691/2 / by Samuel Catherall ...</title>
+            <author>Catherall, Samuel, 1661?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31344</idno>
+            <idno type="STC">Wing C1491</idno>
+            <idno type="STC">ESTC R35477</idno>
+            <idno type="EEBO-CITATION">15344797</idno>
+            <idno type="OCLC">ocm 15344797</idno>
+            <idno type="VID">103431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the funeral of the Right Honourable the Lady Viscountess Dowager Cholmondeley at Malpas in Cheshire on the last day of February, 1691/2 / by Samuel Catherall ...</title>
+                  <author>Catherall, Samuel, 1661?-1723.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cholmondeley, Elizabeth Cholmondeley, --  Vicountess, d. 1691.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103431:1" rendition="simple:additions"/>
+            <p>A Sermon Preach'd at the FUNERAL OF THE Right Honourable, <hi>The</hi> LADY <hi>Viſcounteſs, Dowager, <hi>Cholmondeley:</hi>
+               </hi> At <hi>MALPAS</hi> in <hi>Cheſhire,</hi> on the Laſt Day of <hi>February,</hi> 1691/2.</p>
+            <p>By <hi>Samuel Catherall,</hi> M. A. and Chaplain to the Right Honourable, <hi>Hugh</hi> Lord Viſcount <hi>Cholmondeley.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavell</hi> at the Peacock in St. <hi>Pauls-Church-yard,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103431:2"/>
+            <pb facs="tcp:103431:2"/>
+            <head>To the Honourable, MADAM EGERTON, Only Daughter of the Right Honourable, The Lady, Viſcounteſs <hi>Cholmondeley,</hi> &amp;c.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THere need no other Conſiderations, to recommend, and per<g ref="char:EOLhyphen"/>petuate the Memory of my Lady <hi>Cholmondeley,</hi> than the Merits of her Life; it being hardly poſſible, to think the World ſhould forget ſo Great a Good, as long as any ſenſe of Piety or Gratitude continues in it.</p>
+            <p>But ſince your Ladyſhip, and your Honourable Relations are pleas'd to command, my poor Mite ſhould be caſt in towards that pious End, I am, neither to diſpute the Doing, nor Event of it, but to ſhew my Obedience in both.</p>
+            <p>And as for the Diſproportion the Funeral Diſcourſe upon the Peruſal muſt be found, to carry to the dignity of the Subject, it would be Vanity in me, to attempt any thing of Apology for this; being, it may be well ſuppos'd, nothing more could be expected from me, than to draw below the Value of ſo high a Character.</p>
+            <p>However, as far ſhort as the Repreſentation falls of being per<g ref="char:EOLhyphen"/>fect,
+<pb facs="tcp:103431:3"/>I doubt, there are few Perſons, who ſurvive, ſo good, but if they would endeavour, to come as near the Life of the Honourable Original, as that does, they might be better. And indeed, when all is done, the moſt effectual Method to tranſmit the Vertues of ſo rare an Example to her Poſterity, is not ſo much to write, as to live 'em down thither. In which reſpect your Ladyſhip is likely to afford the moſt natural and lively Tranſcript; who have been al<g ref="char:EOLhyphen"/>ways known to live ſo, as well to imitate, as to honour ſo truly Great and Honourable a Parent. And it muſt be confeſs'd in ſo happy an Imitation, your Ladyſhip will make the greateſt Recom<g ref="char:EOLhyphen"/>pence, that can be for the Loſs of ſo Excellent a Perſon, by ma<g ref="char:EOLhyphen"/>king your ſelf as Great, and Good, as She was.</p>
+            <p>Your Ladyſhip will pleaſe, to take this, as it is intended, not to direct, but to wiſh you conſtant ſucceſs in that Vertuous and Reli<g ref="char:EOLhyphen"/>gious Courſe, your own judicious Choice, as well as ſo Dear an Example has all along induc'd you to purſue: And as the perfect Accompliſhments in that way; I mean, in the way of Vertue and Religion, are indeed the higheſt Felicity your Ladyſhip will meet with on this ſide Heaven: So next to that, if your Ladyſhip vouchſafes your Acceptance of this, and the Continuance of your Favour to him, that humbly offers it; This will be the greateſt Happineſs and Honour to,</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>Your Ladyſhips moſt Obedient, And moſt Obliged Humble Servant, Samuel Catherall.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:103431:3"/>
+            <head>
+               <hi>A Funeral Sermon</hi> On the DEATH of the Right Honourable, <hi>The Lady Viſcounteſs Dowager</hi> Cholmondeley.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Numb. xxiii. Ver. 10.</hi>
+               </bibl>
+               <q>Let me Dye the Death of the Righteous, and let my Laſt End be like his.</q>
+            </epigraph>
+            <p>THE Reaſoning of Righteouſneſs, and of Judg<g ref="char:EOLhyphen"/>ment to come, put wavering <hi>Faelix</hi>
+               <note n="*" place="margin">Acts. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 25.</note> into a Fit of Trembling: But the Death here of the Righte<g ref="char:EOLhyphen"/>ous conſider'd, puts a bad Man into good Wiſhes, that his Latter End might be like theirs. So true it is, that though Religion, and Religious People are ſometimes the moſt perſecuted and ridicul'd Things in the World amongſt bad Men, yet when once the worſt of Men come, to conſider ſeriouſly, and reaſon the Matter throughly, true Wiſdom in the end, is always found to be juſtified by her Enemies, as
+<pb n="2" facs="tcp:103431:4"/>well as by her Children: And all good Men and Wo<g ref="char:EOLhyphen"/>men will at laſt be admir'd, if not imitated, that are ſo wiſe, as to be wiſe indeed unto Salvation. And that Re<g ref="char:EOLhyphen"/>ligion and all good Chriſtians do not always meet with this deſerv'd Honour and Eſteem, is for no other Reaſon, but becauſe wicked and ungodly Men (whilſt they conti<g ref="char:EOLhyphen"/>nue ſo) have indeed neither the Senſe nor Civility, to give either God or good men their due. For indeed a godly Life
+<note n="*" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1 Cor. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.18.</note>, as well as the Preachers of it, appear equally <hi>Fool<g ref="char:EOLhyphen"/>iſhneſs</hi> and a Jeſt to the Natural, and to the ſinful Man; becauſe the Truth is, (as the Scripture ſpeaks) Men, whilſt they walk in a vain ſhaddow, in purſuit of their Vices, and in the courſe of their Wickedneſs,
+<note n="*" place="margin">Pſal. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.20.</note> have no Underſtanding, but muſt be compar'd to <hi>the Beasts that periſh.</hi>
+            </p>
+            <p>And that wicked Men do put off their Underſtanding, and Reaſon, before they can ſhake off the reſpect due to Vertue and Religion, is very plain and evident in the In<g ref="char:EOLhyphen"/>ſtances of the wicked Prophet <hi>Balaam,</hi> in the Text; Who, for the Wages of Unrighteouſneſs, being tempted to curſe the righteous and innocent People of God, ran greedily (as St. <hi>Jude</hi> ſays) and ſpurr'd it on in that curſs'd way, till the Bruit Beaſt was forc'd to admoniſh the blind Rider, and
+<note n="*" place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 16.</note> 
+               <hi>the dumb Aſs</hi> (as the Text has it) to rebuke <hi>the Madneſs of the Prophet.</hi>
+            </p>
+            <p>But then indeed, as ſoon as the dreaming Offender o<g ref="char:EOLhyphen"/>pen'd his eyes, to ſee at once his Error, and the Glory of the Lord, he preſently ſaw with fear and trembling, that
+<pb n="3" facs="tcp:103431:4"/>nothing but
+<note n="*" place="margin">Iſa. 59.7.8.</note> 
+               <hi>Unhappineſs</hi> and <hi>Deſtruction</hi> was in the way of the wicked: And he perceiv'd too at the ſame time, that the end of the upright Man only, that is
+<note n="*" place="margin">Pſal. 37.37.</note> 
+               <hi>Peace.</hi> And ſee<g ref="char:EOLhyphen"/>ing all this, this true ſcene of happineſs on the one hand, and the as terrible ſcene of miſery on the other; it is no wonder, that the declining Old Sinner deſir'd at laſt to be happy; that is, that he might <hi>Dye the Death of the Righteous, and that his Latter End might be like</hi> theirs.</p>
+            <p>From the Words thus conſider'd in their proper relations, I ſhall at preſent endeavour, to make good theſe Three Particulars:</p>
+            <p>
+               <hi>Firſt,</hi> I ſhall ſhew, How natural it is for all Men, to deſire to dye well, though they live never ſo wickedly.</p>
+            <p>
+               <hi>Secondly,</hi> I ſhall ſhew, How improbable, if not impoſſi<g ref="char:EOLhyphen"/>ble it is for Men to dye well, unleſs they live well.</p>
+            <p>Then <hi>Thirdly,</hi> I ſhall ſhew, What it is truly to live well, and what it is to dye well: And laſt of all, will follow the Application, ſuitable to the preſent Mournful Occaſion.</p>
+            <p>And Firſt I'me to ſhew, How natural it is for all Men, to deſire to dye well, though they live never ſo wickedly.</p>
+            <p>Now for a Man to deſire to dye well, is to deſire an happy and eaſie paſſage from Life to Death, and to be hap<g ref="char:EOLhyphen"/>py after Death. And the deſire of both theſe is ſo agree<g ref="char:EOLhyphen"/>able,
+<pb n="4" facs="tcp:103431:5" rendition="simple:additions"/>and interwoven in the Nature and Temper of every Man, that the very worſt of Men cannot be ſuppos'd ſo unnatural, or ſo unkind to themſelves as to deſire otherwiſe; but that all Men do as neceſſarily deſire thus to dye well, and to be happy after Death, as they deſire their well-being in this Life: For though there is, and has been always ſome wicked Men in the World, who by their Lives and Con<g ref="char:EOLhyphen"/>verſations would at leaſt ſeem to have no hopes, nor fears of any thing, but in this Life only: Yet, ſuppoſe a Man never ſo great a Hater of God and Religion, 'tis ſcarce poſ<g ref="char:EOLhyphen"/>ſible any Man ſhould be ſuppos'd ſo great an Enemy to himſelf, as to deſire to Dye wrethedly, or to be miſerable after Death.</p>
+            <p>However, I ſay, great the Atheiſts may be, that are, or that have been, there could never ſure in the World be ſo wicked a Fool as this, Who will therefore hate Happineſs, becauſe he does not love Holineſs? And the Truth is, a<g ref="char:EOLhyphen"/>mongſt the moſt profligate and the moſt wicked Men, there is no ſuch thing as an abſolute Atheiſt, when Men <hi>(as it</hi>
+               <note n="*" place="margin">Heb. 9.27.</note> 
+               <hi>is appointed)</hi> come once to dye: For as there's no Man in the World, that knows certainly what his Soul was, or how it ſubſiſted, before it was united to the Body; ſo let the Profane
+<note n="*" place="margin">1 Cor. 1.20.</note> 
+               <hi>Diſputers of this World</hi> talk as they pleaſe, yet no Man naturally can have any more certainty, what con<g ref="char:EOLhyphen"/>dition his Soul will be in, after it is ſeparated from the Body.</p>
+            <p>But if the Atheiſt will ſay here, that after Death his
+<pb n="5" facs="tcp:103431:5"/>Soul will be nothing, but that it will ceaſe to be; by the A<g ref="char:EOLhyphen"/>theiſts leave, we muſt ſay, that this is more than the moſt knowing Atheiſt in the World can pretend, to know cer<g ref="char:EOLhyphen"/>tainly. And therefore ſince where there's no certainty, there will certainly be doubts and ſcruples, eſpecially in this great Buſineſs of Dying, and ſomthing that may be Ex<g ref="char:EOLhyphen"/>pected after Death; It muſt neceſſarily follow, that out of the meer principle of ſelf-Love to a Man's own well-being every where, where it is poſſible for him to be, the veryeſt Infidel therefore, tho' He does not Expreſs it, yet in effect muſt be ſuppos'd at leaſt implicitly to deſire to dye the Death of the Righteous; that is, to dye ſo, as that he may be well after Death, and not miſerable.</p>
+            <p>For the truth is, the good Chriſtian, that lives a righte<g ref="char:EOLhyphen"/>ous, and a Godly Life, takes the ſafeſt and ſecureſt way, let what will happen after Death.</p>
+            <p>Becauſe if there be an Heaven (as all good Chriſtian's do believe there is) then the good Chriſtian, He is happy! And if there be no ſuch thing, why then there is no harm done.</p>
+            <p>But then as for the Atheiſt and Ungodly, it is not ſo with them. For if there be an Heaven and an Hell (as there may be, for all the Fool has ſay'd in his heart to the contrary) why then the Ungodly Wretches are for ever miſerable and undone, becauſe they are damn'd for ever!</p>
+            <p>There is I know amongſt the Lew'd and Prophane, e<g ref="char:EOLhyphen"/>ſpecially in theſe latter Ages, a moſt ſtrange and horrid way
+<pb facs="tcp:103431:6"/>of Dying, that in their Mirth and jollity ſome Men love mightily to talk of, namely, of dying hard; that is, in plain Engliſh, of dying without any Fear or Apprehenſions at all of either Heaven or Hell! But whether ſuch vain Men do really deſire to dye ſuch Horrid kinds of Death, as they love thus prophanely to talk of, is not ſo certain.</p>
+            <p>However, thus much is moſt evident, that every Man, that lives in his ſenſes, and does not dye out of E'm, de<g ref="char:EOLhyphen"/>ſires to dye much otherwiſe. For every Man in his Wits would deſire to dye not ſo much without the ſenſi<g ref="char:EOLhyphen"/>ble Belief, as without the fear and Danger of Hell and E<g ref="char:EOLhyphen"/>ternal Puniſhment; From which horrid danger, no man can be ſure, that He dyes free, as long as it is poſſible, there may be ſuch an horrid State and Condition after Death, unleſs indeed Men do take Care, to dye the Death of the Righteous; and then, and only then they can be ſaid, to be ſafe and ſecure, whether there be any ſuch place of puniſhment or no. And indeed this bare poſ<g ref="char:EOLhyphen"/>ſibility of there being ſuch a Thing as Eternal Vengeance, and an Hell for the Wicked, is enough to make every man, that does not dye Raving Mad, or quite ſtupify'd, to deſire to dye the Death of the Righteous; to the end, that they may be ſafe and ſecure, even as the Righteous are from the poſſibility of any ſuch Dangers. For indeed, right Reaſon as well as Religion, teaches Men to provide againſt all poſſible, as well as againſt all apparent evils, both in Rela<g ref="char:EOLhyphen"/>lation to this Life, and that which is to come. And there<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:103431:6"/>it being allow'd on all hands at leaſt, poſſible, that there is both a
+<note n="*" place="margin">Pſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Reward</hi> for the Righteous, and a <hi>conſuming</hi>
+               <note n="*" place="margin">He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>fire</hi> for the Ungodly. All men will upon this Account be apt enough, when they come to dye, to deſire the better and the ſafer part. Becauſe tho' all wicked Men do hate Righteouſneſs, yet they cannot ſure be in love with the Wages of Sin! For let vain Men Love their ſinful pleaſures never ſo well: Yet I think no man was ever ſo far in Love with his Sins, as to be willing to be damn'd for e'm!</p>
+            <p>And this may be ſufficient, to prove the firſt particu<g ref="char:EOLhyphen"/>lar: namely, that All men do at leaſt deſire to dye well, tho' they live never ſo wickedly. Which brings us to the next particular, to be made good: wherein we are to ſhew, that tho' all men do deſire it, yet it is improbable (if not impoſſible) for Men to dye well, unleſs they live well.</p>
+            <p>And indeed, for Men to expect to dye the Death with<g ref="char:EOLhyphen"/>out living the Life of the Righteous, is to expect, that God ſhould be that, which He never was, and He has ſaid, He never will be: namely, a
+<note n="*" place="margin">A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> Reſpecter of Perſons in giving that for Nothing to the Wicked, which is the pecu<g ref="char:EOLhyphen"/>liar lot of the Righteous, <hi>viz.</hi> The
+<note n="*" place="margin">P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> hope of life in their Death.</p>
+            <p>Nay, it is fooliſhly to expect too, that God, the Righte<g ref="char:EOLhyphen"/>ous Judge, ſhould give the Crown of Life to thoſe wicked Men, who never took Care, to run the Race that was ſet before them. In ſhort, it is an Expectation, that im<g ref="char:EOLhyphen"/>plys
+<pb facs="tcp:103431:7"/>the greateſt Unreaſonableneſs and Abſurdities! For it is to expect, that God ſhould give the eternal Manſi<g ref="char:EOLhyphen"/>ons, and the Childrens Bread, to Dogs. And that the un<g ref="char:EOLhyphen"/>clean Sinner, as well as the pure Saint, ſhould have equal Liberty to enter into the Kingdom of Heaven.</p>
+            <p>There is I know a very uſual, but a very unhappy ſay<g ref="char:EOLhyphen"/>ing, wherewith too many Men perſwade themſelves, to put off the neceſſity of a good Life, and yet for all that hope, to dye well, and that is by a late Repentance; which they ſay, is never too late. And by this, they mean a Death-Bed Repentance: But then alas, let us not deceive our ſelves: For tho' indeed a True Repentance is never too late; Yet a Death-Bed Repentance, truly and properly ſpeaking, is no Repentance at all. For True Repentance, is true ſorrow for ſin, and as true Reſolution to Sin no more. But then, what does a dying Man's Reſolution ſignifie, to ſin no more, when He is indeed not able, to ſin any longer: Beſides, True Repentance, you know, requires Amendment and Reformation: But we know, that Reformation is the Work of a Man's whole Life, and not to be finiſht in the Compaſs of a few dying Moments. And indeed, ſuppoſing all, that is poſſible to be ſuppos'd, a Death Repentance is ſuch a Repentance, and ſo feeble (alas!) and weak, like the dying Perſon that makes it, that it may be term'd a faint deſire, and wiſh, to repent, rather than a True Re<g ref="char:EOLhyphen"/>pentance. And ſhould God thus beſtow Heaven for a dy<g ref="char:EOLhyphen"/>ing wiſh, and Eternal Happineſs for meer asking, the que<g ref="char:EOLhyphen"/>ſtion
+<pb n="9" facs="tcp:103431:7"/>would not be, who then could be ſav'd, but who then could be damn'd! If the eternal Weight of Glory were ſo cheap a thing, that well-wiſhing only upon our Death Beds would be enough, to make the purchaſe of Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I am not, I confeſs, for ſhutting the Kingdom of Hea<g ref="char:EOLhyphen"/>ven againſt Men, nor for making the Narrow Way that leads thither any ſtraiter: But thus much, I muſt needs ſay, that infinite Mercy has thought fit, to declare but one Inſtance only of a Death Repentance ſufficient and good; Namely, in the Inſtance of the Thief upon the Croſs, and that not without the Help of a Miracle, to make it ſo. And I muſt needs own, I do think, that nothing leſs than a Miracle of Mercy can make that Man dye a good Death, who has not liv'd a good Life.</p>
+            <p>For after all, that Miraculous Repentance of the dying Thief upon the Croſs, is no more than an Argument, to diſſwade Sinners from hazarding their Salvation upon a Death Repentance. And certainly (as the Scripture ſpeaks) great and mighty is the Work of true Repen<g ref="char:EOLhyphen"/>tance! When with the Advantages of a good Life, the Righteous ſhall ſcarcely be ſaved! And if it be ſo hard with the Righteous, where then can there be any hopes for the Wicked? Or how is it poſſible, that thoſe Per<g ref="char:EOLhyphen"/>ſons, who all their Life time have liv'd like Beaſts, ſhould hope to dye like Men, much leſs like Chriſtians! And yet alas! Too many are there, unhappy Wretches, that
+<pb n="10" facs="tcp:103431:8"/>in the worſt of ſenſes will believe againſt Hope; and though their Lives are lead in an open hoſtility and war againſt God, and all Goodneſs; yet for all that, theſe men will hope ſtill, when they come to dye, that they ſhall de<g ref="char:EOLhyphen"/>part in peace as well as the beſt.</p>
+            <p>And this indeed, by the way, may be ſaid to be the true and unhappy Reaſon, that Iniquity does ſo much a<g ref="char:EOLhyphen"/>bound amongſt us; and that though many even of the Righteous are dayly ſick and weak amongſt us, and ma<g ref="char:EOLhyphen"/>ny ſleep; yet for all that, we do not ſee the Ungodly and the Sinner take any Warning at theſe things, or lay 'em to heart, as they ought. I ſay, from this deadly and de<g ref="char:EOLhyphen"/>ceitful Root, does ſpring all that abundance of Vice and Immorality, that over-ſpreads the Lives and Converſations of moſt Men; and that becauſe Men do vainly hope, that they can well enough dye good Deaths, though they live never ſo wicked Lives. And the Truth is, herein do we prove our ſelves to be the fooliſh, as well as miſerable Sons of <hi>Adam;</hi> becauſe we firſt ſin, and then dye as he did, becauſe of
+<note n="*" place="margin">Heb. 3.19.</note> 
+               <hi>Unbelief:</hi> I ſay, becauſe of our Unbelief. For indeed, as our Firſt Parents did, ſo do we; that is, we do not heartily believe that we ſhall dye, but that we ſhall live, though we ſin againſt God. And as to this Matter, though God himſelf had ſaid, If ye ſin, you ſhall ſurely dye: yet the Curſed Woman, becauſe ſhe would fain ſin, and yet live too, will therefore believe the Devil, that ſaid, ſhe might ſin and live, rather than God himſelf, who told
+<pb n="11" facs="tcp:103431:8"/>her quite otherwiſe! And alas! We, the curſed Seed of the Woman! We, I ſay, that have all of us in this Caſe too much of the Woman, are too willing to believe the Father of Lyes, when he tells us, that the practical Know<g ref="char:EOLhyphen"/>ledge of a little Evil can never keep us out of Paradice. And thus, when the Chief Corner-ſtone of Belief is ſhaken, and unſettled, and Mens Hearts are not rightly eſtabliſh't in the Truth, (as the Scripture ſays) How then is it pro<g ref="char:EOLhyphen"/>bable, that Men ſhould pay God the Homage of a good Life, or obey him,
+<note n="*" place="margin">R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 10 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> in <hi>Whom they have not believ'd!</hi> So that after this Rate, we of the Miniſtry, in order to Salvation, and Mens dying well, may preach up the neceſſity of a good Life, and good Works, as much as we pleaſe; and it may be (with <hi>Feſtus</hi>) Men may be ſo civil, as to come to Church, and give us the hearing. But then alas, the fooliſhneſs of Preaching is not likely to have any great ef<g ref="char:EOLhyphen"/>fects upon Mens Lives or Hearts, as long as wicked men are reſolutely poſſeſt of this vain Hope and Belief, that without Holineſs they ſhall ſee God; and that they can well enough hope to enter into Life, without being at the Trouble of keeping Gods Commandments.</p>
+            <p>But then alas! It is not Unbelief only, but it is as groſs Ig<g ref="char:EOLhyphen"/>norance too, that keeps many Men from entring into the Courſe of a good Life, in Order to dye well. For indeed there are many Men, that ſome how or other content them<g ref="char:EOLhyphen"/>ſelves, to live all their Life long under the Diſadvantages of ſo much groſs Ignorance in Religion, and Spiritual
+<pb n="12" facs="tcp:103431:9"/>things, that (as the Scripture ſpeaks) they cannot tell what to do to be ſav'd: And ſuch Men as theſe, inſtead of in<g ref="char:EOLhyphen"/>creaſing in the Knowledge of the Lord, and growing to perfect Men in Chriſt Jeſus, have (as the Apoſtle ſpeaks) always need of Milk; that is, they are always untoward Children of diſobedience, and your Babes in Grace! Having every thing of Children but their Innocence. Such men being content, to be Novices all their Life time in Religi<g ref="char:EOLhyphen"/>on. And have as much need, to be Catechiz'd on their Death Beds, as they had in their Cradles: They profeſs indeed a Faith, and are Baptiz'd into it, but have nothing alas, to ſhew for it, but the Name! So that when the Miniſter comes to ſuch Men or Women upon their Death Beds, and there goes about (as it is his Duty ſo to do) to Examine the dying Perſons ſtate and condition; and upon what Terms at their leaving this, they hope to be receiv'd in the next World? why alas! All the Anſwer, that many dying Perſons are a<g ref="char:EOLhyphen"/>ble to give upon theſe Occaſions, is only this; namely, that they believe in Chriſt: And they hope, they have made their peace with God! But then if the Miniſter proceed, to ask E'm their grounds and Reaſons for all this: Or the meaning of juſtifying Faith, and the Goſpel Repentance: Or how they underſtand, or have obſerv'd the Covenant of Grace in Jeſus Chriſt?</p>
+            <p>Why alas! inſtead of anſwering you in any of theſe things: Or of giving (as the Apoſtle ſpeaks) any reaſonable Ac<g ref="char:EOLhyphen"/>count of the Faith that is in them, the poor departing
+<pb n="13" facs="tcp:103431:9"/>Wretches, will only ſtare (as the Pſalmiſt in another caſe ſays) and gape upon you with their Mouths! But alas, Beloved, though by an extraordinary degree of Charity, we are apt to paſs the moſt favourable Interpretation up<g ref="char:EOLhyphen"/>on the Deaths of ſuch poor ignorant Perſons; and to hope, that they dye in the Lord: Yet this is indeed is far from the true Notion of living and of dying well! For indeed, the effectual Knowledge that is able to ſave a Man in the hour of Death, and in the day of Judgment, is that only true and ſaving Knowledge applyed to the departing Soul, <hi>viz.</hi> The Knowledge of Chriſt and him Crucified! For this (as the Scripture ſpeaks) is the one thing neceſſary. This is Life Eternal (not to be ignorant of) but to
+<note n="*" place="margin">Joh. 17 3.</note> 
+               <hi>Know the onely True God, and his Son Chriſt Jeſus!</hi> And the Truth is up<g ref="char:EOLhyphen"/>on the whole Matter, it's a moſt horrid thing to be conſi<g ref="char:EOLhyphen"/>der'd, that Men and Women both, ſhould make it their chiefeſt ſtudy in this World, to live faſhionably, and to dye genteelly: And yet in the mean time, that ſo few ſhould make it their buſineſs, to learn the Holy Art of Living and Dying like true Chriſtians! And this leads us to the Diſcuſſion of the third and laſt particular propos'd. Wherein we are to ſhew, what it is truly to live well, and what it is to dye well.</p>
+            <p>Now for a Man truly to live, and truly to dye well, is for him to live up to the Profeſſion of his Religion, and to dye in the ſincere Practice of that Religion, which he pro<g ref="char:EOLhyphen"/>feſſes. For this, as the Scripture ſpeaks, is the Summ and All of the Chriſtian Calling; namely, that we ſhould con<g ref="char:EOLhyphen"/>tinue
+<pb n="14" facs="tcp:103431:10"/>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 2.10.</note> 
+               <hi>Faithful unto Death,</hi> and then we may expect to <hi>re<g ref="char:EOLhyphen"/>ceive the Crown of Life.</hi> It was a moſt unhappy Cheat, that the Devil put upon our firſt Parents in Paradice in perſwad<g ref="char:EOLhyphen"/>ing 'em, that Man's happineſs conſiſted not in the doing, but barely in the knowing of good. But Chriſt himſelf tells us, that whatever good things we know, we are not likely to be
+<note n="*" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 13.17.</note> 
+               <hi>happy, unleſs we do them.</hi> And the Truth is, the Chriſtian Religion is the moſt active, as well as the moſt nice ſort of War and Buſineſs; whereby Men are engaged not to act and fight againſt one another (as they do) but to fight againſt themſelves: For the Chriſtian Life is indeed an holy Warfare, and a Man by the Grace of God, and the help of Religion, muſt live down his own wicked ſelf; and the Chriſtian Souldier can never expect to be at peace with God, till he has warr'd down, and deſtroy'd the whole body of Sin. Indeed, the good Chriſtian may then be ſaid to live, when he lives unto the Lord: But then no man can be ſaid to live unto the Lord, but he that dyes to Sin. And in this Sence it might be, that good King <hi>David</hi> ſaid, He was kill'd all the day long; that is (as St. <hi>Paul</hi> ſays) He acted a conſtant Death upon himſelf in dying daily unto Sin: So that, then it is that a man begins to live himſelf up into a good Chriſtian, when he has happily out-liv'd his na<g ref="char:EOLhyphen"/>tural Corruptions, that made him a bad man. And thus the Life of the Chriſtian and the New Creature (as the Scripture ſpeaks) is form'd out of the Death of the Old Man with his Deeds. And thus the good Chriſtians Life and Converſation may be ſaid to be in Heaven, when him<g ref="char:EOLhyphen"/>ſelf
+<pb n="15" facs="tcp:103431:10"/>and his
+<note n="*" place="margin">Ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Affections</hi> are thus intirely Crucified to the World! I ſay wholly and intirely Crucified! For the good Chriſtian does not at that time only begin to live ſoberly, godly and righteouſly in this World, juſt then when he is a dying and departing into the next. Neither does the good Chriſtian then only begin to think of ſending for the Phy<g ref="char:EOLhyphen"/>ſitian of the Soul, when there is no longer any hopes in the Doctor of the Body. But the good Chriſtian, to make the Evening Sacrifice of his Death acceptable to God, he takes care all his Life long, to offer up himſelf, and his whole Body and Soul, a living Sacrifice unto the Lord! Nor will this hearty and this holy Liver ever ceaſe mor<g ref="char:EOLhyphen"/>tifying and ſubduing both his Body and Soul, till he has re<g ref="char:EOLhyphen"/>duc't &amp; brought down every proud and paſſionate, &amp; every rebellious Thought to the
+<note n="*" place="margin">2 Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10.5.</note> Obedience, and to the Will of God; ſo that the good and thorow-pac't Chriſtian, that is every way thus Religiouſly mortified, may without the ſtrain of a Paradox, be ſaid to out-live his Death! For this holy Liver and Dyer (as the Scripture ſpeaks) is already
+<note n="*" place="margin">1 Joh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14.</note> paſs'd from Death to Life; ſince having dy'd once unto ſin, Death has no more Dominion over him! And ſo ſuch a Chriſtian as this cannot be ſo properly ſaid to dye, as to lay down his Life onely, that he may take it up again. To put off what was mortal, that he may be cloath'd with Immortality. In a Word, the good Chriſtian's Death is yet more than Life to him; for thereby he exchanges Earth for Heaven, and lays down the Life of a Man, that he may take up that of an Angel!</p>
+            <pb n="16" facs="tcp:103431:11"/>
+            <p>But whilſt I am thus endeavouring to ſet before your eyes, a Scheme of Holy Living and Dying, a more advan<g ref="char:EOLhyphen"/>tageous, and inviting Proſpect of both, muſt, I am ſenſible, entertain, and preſent it ſelf to the thoughts of all thoſe, that are come hither, to Celebrate the Memory and Me<g ref="char:EOLhyphen"/>rits of this Great and Honourable Perſons Life, as well as attend the Melancholy Solemnities of her Funeral. For this indeed is what at once juſtifies and recommends the uſe of Preaching upon theſe Occaſions, when the ſhining Vertues of the Deceas'd are ſufficient to make the cleareſt Comment upon the Text; and when the Exemplary Life of the Dead ſurvives, and yet ſpeaks, as the beſt proof of the Preachers Doctrin: Otherwiſe indeed a Funeral So<g ref="char:EOLhyphen"/>lemnity, would in a Literal ſenſe be no more than the Dead burying their Dead! And a Funeral Sermon inſtead of ſpeaking well of the Dead, might paſs for little better than a Satyr both upon the Dead and Living. But what<g ref="char:EOLhyphen"/>ever, as a motive to our Living well, has been here ſaid of the Death of the Righteous, makes but a faint De<g ref="char:EOLhyphen"/>ſcription of this no leſs good than great Perſon, who moſt certainly liv'd ſo, as to dye one of that bleſſed Number. And by ſo living and dying, has indeed left behind her to Poſterity ſuch a Legacy, and ſtock of vertues as few have equall'd, but All, I am ſure, are concern'd to imitate, and commend! That this is not the Language of Deſign<g ref="char:EOLhyphen"/>ing flattery, or a ſervile Dependance, All Perſons, who had the Honour of knowing Her Ladyſhip, will need no
+<pb n="17" facs="tcp:103431:11"/>other Conviction. And then I am ſure, that they, who knew any thing of Her Ladyſhip's Temper and Quali<g ref="char:EOLhyphen"/>fications, could not but obſerve thoſe degrees of meekneſs and humility in her Life, that could never deſign a Pane<g ref="char:EOLhyphen"/>gyrick at her Death. And indeed, that this meek and good Perſon intended nothing of Harangue in her Funeral Ser<g ref="char:EOLhyphen"/>mon, is yet more evident from the humble Choice ſhe was pleaſed to make, of one the leaſt qualify'd of her Servants to Preach it. So that not pretending here, to praiſe a Perſon, of whom Every Body ſpeaks well: But to recommend the Credit and Advantages of being Ver<g ref="char:EOLhyphen"/>tuous from this great Example of Vertue; This muſt be ſaid, That whether it were by an Extraordinary Gift of na<g ref="char:EOLhyphen"/>tural temper and goodneſs: Or, by the effects of a no leſs ſingular and Religious Care and Education; ſhe was always known to be a Perſon, that had an abſolute Go<g ref="char:EOLhyphen"/>vernment of her ſelf: And withal of that diſcreet, pious, and obliging temper, that made her remarkable through every ſcene, and Condition of her Life! For if we con<g ref="char:EOLhyphen"/>ſider her, as a ſingle Perſon; or as a Wife Married into, and become the Miſtreſs of a great, and Noble Family. If I ſay we conſider her, as the happy Mother of Children, and in the State of her Widdowhood; or in the Relations of her Friendſhip and Correſpondence; in all theſe, it may with great Truth be ſaid, ſhe always manag'd her ſelf with that Honourable Reputation, and Conduct, that ſhe ap<g ref="char:EOLhyphen"/>pear'd, to have all the Vertue and Goodneſs, but none in<g ref="char:EOLhyphen"/>deed,
+<pb n="18" facs="tcp:103431:12"/>I think none, of the Vanities, or Imperfections of her SEX!</p>
+            <p>It is true indeed, the Happy Attainments, and Govern<g ref="char:EOLhyphen"/>ment of her ſelf in all theſe reſpects was owing to her ſtrickt Obſervance of the Rules of Vertue, and Prudence; the bounds of which no Conſiderations whatſoever could prevail with her at any time to Trangreſs. So that tho' her Table of Hoſpitality was conſtant, yet there was ſtill a provident Eye had to frugality. And if her Friend<g ref="char:EOLhyphen"/>ſhip was open, and Free of Acceſs, yet it never went ſo far, as to admit any thing of Riotous, or unſeaſonable. In ſhort, ſhe was a Perſon of an exact Life, and Conver<g ref="char:EOLhyphen"/>ſation, without the affectation of Puritanical preciſeneſs, or rigid moroſeneſs, being ever eaſy in her ſelf, and ne<g ref="char:EOLhyphen"/>ver troubleſome to others. And yet puting on always ſo much of Religious Gravity in her Converſation, as to en<g ref="char:EOLhyphen"/>courage Vertue, and diſcountenance vice.</p>
+            <p>One Thing, it muſt be confeſt, was peculiar in this great Perſons Character: Which is rarely to be found amongſt that of Women, That as ſhe was a Perſon, who would never do, or ſpeak ill of any Body; So ſhe would never hear, at leaſt never believe any ill of her Neighbours. For ſhe was indeed of a Temper very inclinable, to have a good Opinion of every Body of Both ſexes, except the looſe and prophane. And ſhe was indeed an Enemy to none, unleſs it were to the Tatling Goſſippers (as S. <hi>Paul</hi>
+               <pb n="19" facs="tcp:103431:12"/>ſpeaks) and the Buſie-Bodies of her own. And yet even there, where ſhe had Occaſion ſometimes to ſhew a diſ<g ref="char:EOLhyphen"/>like, ſhe did it always with ſo much Candor and Mode<g ref="char:EOLhyphen"/>ration, that her ſevereſt Rebukes could not be call'd provok<g ref="char:EOLhyphen"/>ing. And in Conſideration of ſo agreeable and juſt a De<g ref="char:EOLhyphen"/>portment through all her Actions, if my Lady <hi>Cholmondeley</hi> were, as ſhe was indeed generally ſpoken of, as the happy Perſon, who had not one Enemy, there is no doubt, but that Character was in a great meaſure as true, as it was pub<g ref="char:EOLhyphen"/>lick: Since without queſtion, if ever any Perſon were ſo, it was ſhe, that was ſo good, and inoffenſive, as never to do any thing at leaſt willingly, to diſpleaſe either God, or Man. Neither ſhould it be thought a thing impoſſible, to advance humane nature to theſe heights of goodneſs &amp; per<g ref="char:EOLhyphen"/>fection, when as the Scripture ſpeaks, Faith and a good Religion have their full work upon good Morals, and a vertuous Mind. In which happy method that this Excellent Perſon compleated her Accompliſhments, by adding to her other Vertues the Beauty of Holineſs, is very Evident; She being indeed not leſs eminently a good Chriſtian, than a good Woman! For being early ſenſible, that the Glory of God, and the Good of Mankind was the end, whereunto ſhe was born, it was above all things her care to live ſo, that ſhe might not dye without the Accompliſhment of both theſe. And as ſhe wiſely believ'd Religion, and the Church could beſt preſcribe the ways of being, and of do<g ref="char:EOLhyphen"/>ing good, ſo ſhe did not barely believe, but liv'd accord<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:103431:13"/>to this Belief; not accuſtoming herſelf (as too many do) to diſpute, and talk down the Religious Inſtitutions of the Church, becauſe they would be excus'd from the practice of 'em; nor exclaiming againſt the ſeverities of a Spiritu<g ref="char:EOLhyphen"/>al Life, becauſe they had rather live after the Fleſh: But in all theſe things, making the will of Heaven that of her own, in Obedience to that Will, ſhe heartily obeyed the Diſ<g ref="char:EOLhyphen"/>cipline, as well as embrac't the Doctrines of the Church, Evidencing this her Obſervance of both, not in a few ſingle Acts now and then, but in a conſtant courſe of Piety and good Works; ſo that for the health of the Body, and good of the Soul, this Honourable good Chriſtian did always think it neceſſary, as the Church does, to faſt and pray often at other times as well as in the Time of Lent. And becauſe this ſort of mortifying Religious Exerciſe muſt not be without it's Spiritual Food, to ſupport it; therefore in all her Religious Intercourſes and Meditations ſhe had con<g ref="char:EOLhyphen"/>ſtant Recourſe to the holy Scriptures, where ſhe read de<g ref="char:EOLhyphen"/>voutly and often, becauſe there ſhe found the Book as well as the Bread of Life. Nor did the Cloſſet-Devotion Rob the publick Service of the Church of it's due: For as ſhe came conſtantly to Church, becauſe ſhe believ'd this is no other than the Houſe of God; ſo ſhe always took care to come to Church ſo, as to come time enough, to joyn the Prayers of the Church with her own; becauſe ſhe was perſwaded, that God Almighty would keep his promiſe of being particularly there, where two or three are
+<pb n="21" facs="tcp:103431:13"/>gather'd together in his Name in the Houſe of Prayer.</p>
+            <p>In fine, this Holy and Exemplary Liver, was not onely a conſtant comer, and Worſhipper in the Temple, but ſhe came yet further; and that not once a Year onely, but eve<g ref="char:EOLhyphen"/>ry Month ſhe came even to the Holy of Holies, and ſo was indeed a conſtant comer to the Bleſſed Sacrament; becauſe here too ſhe fed upon the Bread of Life, and not only ſo, but taſted and ſaw, how good and gracious her God was in giving her freely the Cup of Salvation, and ſo ſealing to her the Myſteries of her Redemption in the Blood of his Son <hi>JESUS Chriſt!</hi> But when all this was done, ſhe thought her ſelf but an unprofitable Servant, in only coming to Church to hear, if ſhe did not return home (as <hi>Abraham</hi> was) a Teacher of Righteouſneſs to her Family; her great Concern for which (as of my own knowledge I can evi<g ref="char:EOLhyphen"/>dence) after the Performance of all her own private and publick Devotions, would not however ſuffer her to reſt ſatisfied, till ſhe had firſt by her Preſence and Example ob<g ref="char:EOLhyphen"/>lig'd and encourag'd all her Servants, to perform all their Chriſtian Duties; becauſe indeed, (with good Old <hi>David</hi>) as it was this good Ladies Reſolution, to ſuffer no wick<g ref="char:EOLhyphen"/>ed Perſon to dwell in her houſe, ſo ſhe could not believe that thoſe could make good Servants, who were not made to ſerve God, as well as do their Maſters Buſineſs. And thus this Excellent Perſon, being both at home and abroad the ſame; that is, in the Church, in her ſelf, and in her Family, devout and good; and even to the Letter Pray<g ref="char:EOLhyphen"/>ing
+<pb n="22" facs="tcp:103431:14"/>always, at leaſt always willing and ready to Pray: What in others happens but ſometimes, might of her be truly ſaid, that ſhe was at all times Religiouſly diſpos'd, whoſe diligence in doing good, was indeed unwearied; it being ſtill a new Acceſſion of Pleaſure to the doing good her ſelf, to ſee that others did the ſame.</p>
+            <p>But I am not ignorant, that hitherto I have been little better than a Remembrancer to a great part of this great Audience. I mean, in the relation only of what concerns the more publick part of her Ladyſhips Character. The Inſtance of this, having ſtill (it may be ſuppos'd) amongſt you no leſs than the Evidence of a Cloud of Witneſſes: But then, as to the great Light of this Ladies good Life, (which otherwiſe might have appear'd more unto Men) ſo much of it by her humility was induſtriouſly kept ſecret and under a Buſhel, that much of her Demerits, particularly that of her Charity (is I doubt) never likely to be fully diſcover'd, till it be rewarded openly! For indeed, as Hu<g ref="char:EOLhyphen"/>mility and Goodneſs were the natural, ſo Charity was her Ladyſhips beloved Chriſtian Vertue, which ſhe kept and enjoy'd as her ſecret boſome Delight: And yet ſo far this Charitable, Religious Love could not be hid, but that when her Saviour in any of his poor diſtreſſed Members was in Priſon, ſhe not only often viſited him there, but releas'd him thence: When too ſhe ſaw him deſtitute elſewhere, or an hungry, ſhe gave him to eat, and if he appeared any where naked likewiſe, ſhe was not aſham'd to take him
+<pb n="23" facs="tcp:103431:14"/>in, and to give him Raiment as well as Food. The reſt indeed of her Charitable good Works, were, it muſt be own'd, done, as it were in darkneſs; and yet no leſs than to the ſupport of many poor indigent Families, that to the publick ſhame might otherwiſe, perhaps, have ſtarv'd in private: And as thoſe poor Wretches were always igno<g ref="char:EOLhyphen"/>rant of the Bountiful Hand that kept them alive, ſo did they but now know of her Death: Without doubt, the moſt convincing Eloquence, to ſet off the Worth of her Lady<g ref="char:EOLhyphen"/>ſhips Charity, would be heard in the Mournful Crys and Lamentations of thoſe poor Creatures, who in loſing her, are like to find a ſad Loſs of it!</p>
+            <p>Thus having according to my poor Abilities, repreſent<g ref="char:EOLhyphen"/>ed to you the Life, ſomething now would be ſaid, as to the Death of this truly Righteous Perſon: But as that part of this Subject is too Melancholy to be long dwelt upon, ſo I muſt needs confeſs, That though my Attendance up<g ref="char:EOLhyphen"/>on her Ladyſhip, plac'd me, it is true, near enough to ob<g ref="char:EOLhyphen"/>ſerve the Noble Exerciſe of ner Patience and other Chriſti<g ref="char:EOLhyphen"/>an Vertues, under the tedious Diſcipline of almoſt Twelve Months Pain and Sickneſs; yet by no means can I pretend a Capacity now, to relate what I could only ſee, and ad<g ref="char:EOLhyphen"/>mire then: It is true indeed, being ſhe always thus exact<g ref="char:EOLhyphen"/>ly liv'd the Life of the Righteous, it will eaſily be believ'd, that ſhe dy'd no otherwiſe than ſhe liv'd: But then, Who is it that would attempt a particular Relation of all things that appear'd Remarkable and Exemplary, in this great
+<pb n="24" facs="tcp:103431:15"/>Perſons Death as well as Life, when indeed in both, al<g ref="char:EOLhyphen"/>moſt every thing was ſo! However, upon the whole it may be ſaid, that almoſt from the firſt Approaches of her Illneſs, ſhe had within her ſelf ſuch Apprehenſions of her Change, that what ſhe did or ſaid in this World, was lit<g ref="char:EOLhyphen"/>tle elſe, but in order to her Departure for the next; ſo that, after having prudently diſpos'd all her Temporal Affairs, and piouſly reſign'd her ſelf to the Will of Heaven; tho' from the frequent Intervals of a ſeeming Betterneſs, her Phyſitians talk'd often of the hopes of a Recovery, yet would ſhe by no means put any Confidence in Man; but going ſtill on with her Preparations for Death, as one re<g ref="char:EOLhyphen"/>ſolv'd upon nothing more, than to live ſo, as always to be fit to dye! Not could her ſtricteſt Chamber-Confine<g ref="char:EOLhyphen"/>ment, with the growing Incroachments of her Diſeaſe and Weakneſs, abridge the Meaſure or Order of her Devotions; that being conſtant and regular, perform'd with her whole Family twice a Day, out of the Publick Prayers of the Church, and much oftner out of other proper Helps of Devotion; whilſt the chief Refreſhment of her Soul and Body was ſtill receiv'd by her every Month, and ſome<g ref="char:EOLhyphen"/>times oftner from the Adminiſtration of the ever Bleſſed Sacrament: And when from keeping her Room, ſhe was reduc'd to keep her Bed, the ſame Devotional Courſe was exactly continued as before; ſo that in this Religious Or<g ref="char:EOLhyphen"/>der, doing all things fit to be done, the happy Reflections ariſing from hence, where no doubt, what enabled her La<g ref="char:EOLhyphen"/>dyſhip,
+<pb n="25" facs="tcp:103431:15"/>to maintain ſuch Evenneſs of Temper, ſuch Calm<g ref="char:EOLhyphen"/>neſs and Patience under the ſevereſt Tryals of it; nothing Paſſionate or Querulous, being upon any occaſion to be forc't from her, which was not very reconcileable with the moſt Chriſtian Meekneſs and Reſolution: Inſomuch, that ſhe might be ſaid indeed, to undergo her Extream Pains and Agonies with much more Patience and Tem<g ref="char:EOLhyphen"/>per, than could her Relations and others, that ſaw her ſuffer 'em.</p>
+            <p>And even then in the laſt Extreamities, when the Earth<g ref="char:EOLhyphen"/>ly Tabernacle drew near to its Diſſolution, (the uſe of her Senſe and Faculties however ſtill happily continuing as at firſt) ſhe did not ſpend the ſmall Remainder of her Strength and Breath in fruitleſs Groans and uneaſy Complainings, but in ſeaſonably adviſeing others, to prepare for their Latter End, as ſhe did for her own; not ſuffering any Conve<g ref="char:EOLhyphen"/>nient Moments of her precious Time, to paſs without hear<g ref="char:EOLhyphen"/>ing thoſe about her paſſionately pray for her, whilſt ſhe as devoutly pray'd for her ſelf; ſtill crying out in the Lan<g ref="char:EOLhyphen"/>guage of her Holy Mother, Lord have Mercy upon me! Chriſt have Mercy on me! Till at laſt ſhe recommended her Spirit into his hands, that undoubtedly received it into Mercy!</p>
+            <p>And now, that being diſſolv'd (as ſhe deſir'd) ſhe is with Chriſt, which could only make this good Chriſtians Life better; Let us not mourn for her Joy, nor be ſorry, that ſhe thus happily dy'd that Death, which we muſt All
+<pb n="26" facs="tcp:103431:16"/>deſire to dye, if we would be happy! For indeed, ſince this truly great, and now happy Chriſtian has thus finiſht her Courſe, has thus liv'd and dy'd; leſs I ſay we cannot, and more we need not ſay of her than this; Namely, That happy was it, that ever ſhe was born! Happy was it, that ever ſhe dy'd! And Thirce Happy is ſhe, becauſe ſhe is for ever happy after Death!</p>
+            <p>Which holy Life, and as happy Death, may God of his Infinite Mercy Grant to all of us in his due time: To whom, with the Son, and the Holy Spirit, be aſcrib'd all the Honour, Power and Glory, <hi>&amp;c.</hi> now and for ever, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103431:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
